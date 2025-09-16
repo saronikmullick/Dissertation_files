@@ -1,0 +1,47 @@
+"Monthly total number of electric vehicle public charging devices available in the UK, 1 July 2025 [Note 1]",,,,
+"This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Some cells are marked up with shorthand: ""[x]"" for not available. ",,,,
+Year,Month,"Total charging devices [Note 2, 12, 13]",50kW or above devices [Note 4],Rapid charging or above devices under former definition [Note 5]
+2021,December,"27,614",[x],"5,088"
+2022,January,"28,375",[x],"5,156"
+2022,February,"28,979",[x],"5,279"
+2022,March,"29,583",[x],"5,418"
+2022,April,"30,290",[x],"5,494"
+2022,May,"31,358",[x],"5,741"
+2022,June,"31,855",[x],"5,846"
+2022,July,"32,011",[x],"5,974"
+2022,August,"32,929",[x],"6,112"
+2022,September,"33,693",[x],"6,208"
+2022,October,"34,637",[x],"6,395"
+2022,November,"35,352",[x],"6,465"
+2022,December ,"36,416",[x],"6,663"
+2023,January,"37,055",[x],"6,887"
+2023,February ,"37,625",[x],"7,554"
+2023,March,"38,737",[x],"7,400"
+2023,April,"40,150",[x],"7,647"
+2023,May,"42,259",[x],"7,840"
+2023,June,"43,252",[x],"8,277"
+2023,July,"44,020",[x],"8,461"
+2023,August,"45,522",[x],"8,690"
+2023,September,"48,187",[x],"8,912"
+2023,October ,"49,220","8,908","9,112"
+2023,November [Note 6],[x],[x],[x]
+2023,December,"52,602","9,615","9,934"
+2024,January,"53,677","10,118","10,491"
+2024,February,"55,060","10,504",[x]
+2024,March,"56,983","10,921",[x]
+2024,April,"59,670","11,590",[x]
+2024,May,"61,056","11,882",[x]
+2024,June,"62,418","12,209",[x]
+2024,July,"64,632","12,474",[x]
+2024,August,"66,688","13,155",[x]
+2024,September [Note 8],"67,980","13,422",[x]
+2024,October,"70,042","13,683",[x]
+2024,November [Note 9],"71,016","13,800",[x]
+2024,December [Note 10],"72,271","14,075",[x]
+2025,January,"73,334","14,448",[x]
+2025,February,"74,234","14,687",[x]
+2025,March ,"75,305","15,082",[x]
+2025,April,"76,507","15,446",[x]
+2025,May,"79,326","15,856",[x]
+2025,June,"80,552","16,231",[x]
+2025,July ,"82,002","16,677",[x]
